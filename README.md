@@ -1,0 +1,1 @@
+# SQL-Assignment-part-2-LMT-Uni.
